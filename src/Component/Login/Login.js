@@ -21,8 +21,7 @@ const Login = () => {
                         <Button  fullWidth type="submit" variant='contained' color='primary'>{newUser ? 'Create New Account'  : 'Log-in'}</Button>
 
                         <Typography sx={{marginTop:'10px'}}>{newUser? 'AllRedi have your Account? Please' : `Don't have your Account? Please`}  
-                        <strong onClick={()=>setNewUser(!newUser)}
-                         style={{borderBottom: '1px solid gray',cursor: 'pointer'}}> {newUser? 'Sign-IN' : 'Create new Account '}  </strong></Typography>
+                        <strong onClick={()=>setNewUser(!newUser)} style={{borderBottom: '1px solid gray',cursor: 'pointer'}}> {newUser? 'Sign-IN' : 'Create new Account '} </strong></Typography>
 
                          <Button variant='outlined' sx={{backgroundColor: 'rgb(255, 255, 128)' ,marginTop: '20px'}} fullWidth> <GoogleIcon/> {'->'} Sing-up With Google</Button>
                          
