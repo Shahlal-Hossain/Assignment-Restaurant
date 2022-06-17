@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100vw;
+}
+.menu{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./images/Inkedfastimg_LI.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.menuText{
+    color: white;
+    display: flex;
+    margin-top: 20%;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.menuText h2{
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+.menuText h5{
+    border-bottom: 2px solid whitesmoke;
+    width: 30px;
+    margin-bottom: 20px;
+}
+.container{
+    height: 70vh;
+    width: 100vw;
+    background-color: #d6d6d6;
+}
+.about-us{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-us img{
+    width: 400px;
+    margin: 12% 12% 12% 12%;
+}
+.about-usText{
+    width: 600px;
+    margin-right: 10%;
+}
+.about-usText p{
+    margin: 20px 0px;
+}
+.from{
+    position: absolute;
+    display: flex;
+    background-color: white;
+    padding: 30px;
+    margin: 0px 10%;
+}
+input{
+    width: 250px;
+    padding: 13px 50px;
+}
+.btn{
+    height: 45px;
+    width: 250px;
+    border: 2px solid rgb(43, 41, 41);
+    color: #ffffff;
+    background-color: black;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px;
+    padding: 3px;
+}
+.Featured{
+    width: 100vw;
+    text-align: center;
+    margin-top: 20px;
+}
+.cardImg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5% 17%;
+}
+.cardImg img{
+    width: 320px;
+    height: 220px;
+}
+.Restaurant{
+    height: 100vh;
+    width: 100vw;
+    background-color: #d6d6d6;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.Restaurant h1{
+    margin-top: 30px;
+}
+.mains{
+    background-color: rgb(255, 255, 255);
+    text-align: start;
+    padding-top: 20px;
+    width: 60vw;
+    height: 70vh;
+}
+.mains div{
+    margin-bottom: 40px;
+    padding-left: 70px;
+}
+.cardgallery{
+    display: flex;
+}
+.cardgallery img{
+    width: 512px;
+    height: 300px;
+}
+.card{
+    display: flex;
+}
+.card img{
+    height: 400px;
+    width: 50vw;
+    margin-bottom: 5px;
+}
+.RecentNews{
+    height: 55vh;
+    margin-top: 40px;
+}
+.RecentNews h1{
+    text-align: center;
+}
+.cardText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 10%;
+}
+.cardText div{
+    width: 330px;
+    padding: 10px;
+    
+}
+.cardText a{
+    text-decoration: none;
+}
+.cardText p{
+    padding: 10px 0 10px 0;
+}
+.date{
+    height: 25px;
+    width: 120px;
+    color: #ffffff;
+    background-color: black;
+    font-size: 14px;
+    padding: 3px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.get-multipurpose{
+    width: 100vw;
+    height: 32vh;
+    background-color: #0b4da9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: start;
+    color: #ffffff;
+}
+.futer{
+    height: 92vh;
+    width: 100vw;
+    margin: 0;
+    background-color: #0c0c0c;
+}
+.get-multipurpose h2{
+    padding-top: 15px;
+    font-size: 30px;
+}
+.get-multipurpose p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.get-multipurpose b{
+    border-left: 2px solid wheat;
+    margin-left: 5px;
+    margin-right: 8px;
+}
+.viesbtn{
+    height: 40px;
+    width: 200px;
+    color: #000;
+    background-color: bisque;
+    font-size: 15px;
+    padding: 5px;
+    /* margin-top: 10px; */
+    text-align: center;
+}
+.realFuter{
+    height: 55vh;
+    width: 60vw;
+    text-align: center;
+    color: aliceblue;
+    margin: 30px 18%;
+}
+.realFuter img {
+    width: 200px;
+}
+.testitem{
+    margin-top: 50px;
+}

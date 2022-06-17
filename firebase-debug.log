@@ -1,0 +1,25 @@
+[debug] [2022-06-16T21:14:05.038Z] ----------------------------------------------------------------------
+[debug] [2022-06-16T21:14:05.041Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\dell\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-06-16T21:14:05.042Z] CLI Version:   11.1.0
+[debug] [2022-06-16T21:14:05.042Z] Platform:      win32
+[debug] [2022-06-16T21:14:05.042Z] Node Version:  v16.14.2
+[debug] [2022-06-16T21:14:05.043Z] Time:          Fri Jun 17 2022 00:14:05 GMT+0300 (Arabian Standard Time)
+[debug] [2022-06-16T21:14:05.043Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-06-16T21:14:05.054Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-06-16T21:14:05.054Z] > authorizing via signed-in user (shahlalhossain154@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\React Files\Assignment\pesto-app
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+

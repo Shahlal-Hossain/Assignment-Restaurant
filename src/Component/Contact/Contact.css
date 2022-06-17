@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ContantPages-1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./261598.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+}
+.us{
+    display: flex;
+    margin-top: 20px;
+}
+.us a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-right: 15px;
+}
+.us li{
+    font-size: 15px;
+    color: rgb(232, 206, 198);
+}
+.addressIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    height: 30vh;
+}
+.addressIcon div{
+    padding: 40px;
+    text-align: center;
+}
+.map{
+    width: 100vw;
+    height: 90vh;
+    background-image: url(./Maps-in-Website.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.getinTouch{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 70vh;
+}
+.get-multipurpose{
+    width: 100vw;
+    height: 32vh;
+    background-color: #0b4da9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: start;
+    color: #ffffff;
+}
+.futer{
+    height: 92vh;
+    width: 100vw;
+    margin: 0;
+    background-color: #0c0c0c;
+}
+.get-multipurpose h2{
+    padding-top: 15px;
+    font-size: 30px;
+}
+.get-multipurpose p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.get-multipurpose b{
+    border-left: 2px solid wheat;
+    margin-left: 5px;
+    margin-right: 8px;
+}
+.viesbtn{
+    height: 40px;
+    width: 200px;
+    color: #000;
+    background-color: bisque;
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+}
+.realFuter{
+    height: 55vh;
+    width: 60vw;
+    text-align: center;
+    color: aliceblue;
+    margin: 30px 18%;
+}
+.realFuter img {
+    width: 200px;
+}
+.testitem{
+    margin-top: 50px;
+}
